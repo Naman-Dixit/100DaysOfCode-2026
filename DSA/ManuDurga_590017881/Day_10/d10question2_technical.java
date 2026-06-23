@@ -2,7 +2,7 @@ package Day_10;
 
 import java.util.Scanner;
 
-public class d10question_technical {
+public class d10question2_technical {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();          // size of the input array
