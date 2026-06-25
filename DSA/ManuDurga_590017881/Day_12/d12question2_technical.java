@@ -1,6 +1,6 @@
 package Day_12;
 import java.util.*;
-public class d12question_technical {
+public class d12question2_technical {
     public static int commonArray(String S) {
         boolean[] seen = new boolean[S.length()];
         int distinctElementCount =0;
